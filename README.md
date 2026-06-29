@@ -12,10 +12,6 @@ An end-to-end machine learning notebook for analyzing airline passenger satisfac
 - seaborn
 - scikit-learn
 
-## Repository Name
-
-Recommended GitHub repository name: `airline-satisfaction-ml`
-
 ## Project Structure
 
 ```text
@@ -66,6 +62,3 @@ Place them in the `data/raw/` folder before running the notebook. These files ar
 6. Open `airline_passenger_satisfaction.ipynb`.
 7. Run the notebook cells from top to bottom.
 
-## Status
-
-Completed academic data science project, cleaned and prepared for GitHub.
